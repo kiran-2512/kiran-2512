@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kiran M
+# 👋 Hi, I'm Kiran,
 
 ### QA Automation Engineer | Manual Testing | Test Automation
 
@@ -78,7 +78,7 @@ Git · GitHub · Maven · Jenkins · Jira · Chrome DevTools · VS Code
   <a href="https://www.linkedin.com/in/kirangowdamu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.github.com/in/kiran-2512">
+  <a href="https://www.github.com/kiran-2512">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
